@@ -9,7 +9,7 @@
  
 ## Bayesian Linear Regression 
 ### Lectures
-- Bayesian Linear Regression (slides) (handouts)
+- Bayesian Linear Regression [(slides)](docs/bayesian_linear_regression.pdf) [(handouts)](docs/handouts_bayesian_linear_regression.pdf)
 - Dates: Mar 10, 2023
 ### Labs
 - Python notebook on Bayesian linear regression (Python notebook)
