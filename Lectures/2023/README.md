@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Lectures
-- Course introduction (slides) (handouts)
+- Course introduction [(slides)](Slides/introduction.pdf) (handouts)
 - Recap on linear algebra (slides) (handouts)
 - Recap on probability theory (slides) (handouts)
 - Dates: Mar 03, 2023
