@@ -12,16 +12,16 @@
 - Bayesian Linear Regression [(slides)](docs/bayesian_linear_regression.pdf) [(handouts)](docs/handouts_bayesian_linear_regression.pdf)
 - Dates: Mar 10, 2023
 ### Labs
-- Python notebook on Bayesian linear regression (Python notebook)
-- Python notebook on coin tossing experiment (Python notebook)
+- Python notebook on Bayesian linear regression [(Python notebook)](https://github.com/srossi93/asi-labs)
+- Python notebook on coin tossing experiment [(Python notebook)](https://github.com/srossi93/asi-labs)
 - Dates: Mar 24, 2023
 
 ## Gaussian Processes
 ### Lectures
-- Gaussian Processes (slides) (handouts) 
+- Gaussian Processes [(slides)](docs/gaussian_processes.pdf) [(handouts)](docs/handouts_gaussian_processes.pdf)
 - Dates: Mar 17, 2023
 ### Labs
-- Lab on Gaussian Processes (Python notebook)
+- Lab on Gaussian Processes [(Python notebook)](https://github.com/srossi93/asi-labs)
 - Dates: Mar 31, 2023
 
 ## Bayesian Classification
