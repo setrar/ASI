@@ -4,7 +4,7 @@
 ### Lectures
 - Course introduction [(slides)](docs/introduction.pdf) [(handouts)](docs/handouts_introduction.pdf)
 - Recap on linear algebra [(slides)](docs/linear_algebra.pdf) [(handouts)](docs/handouts_linear_algebra.pdf)
-- Recap on probability theory (slides) (handouts)
+- Recap on probability theory [(slides)](docs/probabilities.pdf) [(handouts)](docs/handouts_probabilities.pdf)
 - Dates: Mar 03, 2023
  
 ## Bayesian Linear Regression 
