@@ -29,7 +29,7 @@
 - Bayesian Logistic Regression and Approximate Bayesian Inference [(slides)](docs/log_reg.pdf) [(handouts)](docs/handouts_log_reg.pdf)
 - Laplace approximation
 - Markov chain Monte Carlo
-- Variational inference [(slides)](docs/variational_inference_2021.pdf) [(handouts)](docs/handouts_variational_inference_2021.pdf)
+- Variational inference [(slides)](docs/variational_inference.pdf) [(handouts)](docs/handouts_variational_inference.pdf)
 - Bayesian Classifier [(slides)](docs/bayesian_classifier.pdf) [(handouts)](docs/handouts_bayesian_classifier.pdf)
 - Performance Evaluation [(slides)](docs/class_perf.pdf) [(handouts)](docs/handouts_class_perf.pdf)
 - Dates: Apr 07 and Apr 14, 2023
