@@ -44,7 +44,7 @@
 - K-means, Kernel K-means, and Mixture Models (slides) (handouts)
 - Dates: May 12, 2023
 ### Labs
-- K-means (Python notebook) (Data)
+- K-means [(Python notebook)](Clustering-Students.ipynb) [(Data)](kmeansdata.txt)
 - Dates: June 2, 2023
 
 ## Projection
