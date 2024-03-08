@@ -56,5 +56,5 @@
 - Dates: June 9, 2023
 
 ## Recap for the Exam
-- Past exam papers (2016) (2017) (2018) (2022)
+- Past exam papers [(2016)](exams/asi16.pdf) [(2017)](exams/asi17.pdf) [(2018)](exams/asi18.pdf) [(2022)](exams/ASI_FINAL_2022.pdf)
 - Dates: Recap for the exam on June 16, 2023
