@@ -26,12 +26,12 @@
 
 ## Bayesian Classification
 ### Lectures
-- Bayesian Logistic Regression and Approximate Bayesian Inference (slides) (handouts)
+- Bayesian Logistic Regression and Approximate Bayesian Inference [(slides)](docs/log_reg.pdf) [(handouts)](docs/handouts_log_reg.pdf)
 - Laplace approximation
 - Markov chain Monte Carlo
-- Variational inference (slides) (handouts)
-- Bayesian Classifier (slides) (handouts)
-- Performance Evaluation (slides) (handouts)
+- Variational inference [(slides)](docs/variational_inference_2021.pdf) [(handouts)](docs/handouts_variational_inference_2021.pdf)
+- Bayesian Classifier [(slides)](docs/bayesian_classifier.pdf) [(handouts)](docs/handouts_bayesian_classifier.pdf)
+- Performance Evaluation [(slides)](docs/class_perf.pdf) [(handouts)](docs/handouts_class_perf.pdf)
 - Dates: Apr 07 and Apr 14, 2023
 ### Labs
 - Metropolis-Hastings Inference for Bayesian Logistic Regression [(Python notebook)](https://github.com/srossi93/asi-labs)
