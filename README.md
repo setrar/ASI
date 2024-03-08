@@ -53,3 +53,4 @@ Good understanding of probabilities
 Good understanding of linear algebra
 ▶
 Today we will do a brief recap of these math subjects.
+# RADIO
