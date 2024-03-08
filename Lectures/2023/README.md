@@ -34,8 +34,8 @@
 - Performance Evaluation (slides) (handouts)
 - Dates: Apr 07 and Apr 14, 2023
 ### Labs
-- Metropolis-Hastings Inference for Bayesian Logistic Regression (Python notebook)
-- Variational Inference for Bayesian Logistic Regression (Python notebook)
+- Metropolis-Hastings Inference for Bayesian Logistic Regression [(Python notebook)](https://github.com/srossi93/asi-labs)
+- Variational Inference for Bayesian Logistic Regression [(Python notebook)](https://github.com/srossi93/asi-labs)
 - Dates: Apr 20, May 05 2023
 
 
