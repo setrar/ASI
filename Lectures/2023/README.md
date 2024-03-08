@@ -49,7 +49,7 @@
 
 ## Projection
 ### Lectures
-- Feature selection, PCA, and Probabilistic PCA [(slides)](docs/projection.pdf) (handouts)
+- Feature selection, PCA, and Probabilistic PCA [(slides)](docs/projection.pdf) [(handouts)](docs/handouts_projection.pdf)
 - Dates: May 26, 2023
 ### Labs
 - Probabilistic PCA [(Python notebook)](Probabilistic_PCA.ipynb) [(MNIST 0,1,2 file)](mnist012.npz)
