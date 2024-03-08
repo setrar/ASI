@@ -44,7 +44,7 @@
 - K-means, Kernel K-means, and Mixture Models [(slides)](docs/clustering.pdf) [(handouts)](docs/handouts_clustering.pdf)
 - Dates: May 12, 2023
 ### Labs
-- K-means [(Python notebook)](Clustering-Students.ipynb) [(Data)](kmeansdata.txt)
+- K-means [(Python notebook)](labs/Clustering-Students.ipynb) [(Data)](kmeansdata.txt)
 - Dates: June 2, 2023
 
 ## Projection
@@ -52,7 +52,7 @@
 - Feature selection, PCA, and Probabilistic PCA [(slides)](docs/projection.pdf) [(handouts)](docs/handouts_projection.pdf)
 - Dates: May 26, 2023
 ### Labs
-- Probabilistic PCA [(Python notebook)](Probabilistic_PCA.ipynb) [(MNIST 0,1,2 file)](mnist012.npz)
+- Probabilistic PCA [(Python notebook)](labs/Probabilistic_PCA.ipynb) [(MNIST 0,1,2 file)](mnist012.npz)
 - Dates: June 9, 2023
 
 ## Recap for the Exam
