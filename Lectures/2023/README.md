@@ -41,7 +41,7 @@
 
 ## Clustering
 ### Lectures
-- K-means, Kernel K-means, and Mixture Models (slides) (handouts)
+- K-means, Kernel K-means, and Mixture Models [(slides)](docs/clustering.pdf) [(handouts)](docs/handouts_clustering.pdf)
 - Dates: May 12, 2023
 ### Labs
 - K-means [(Python notebook)](Clustering-Students.ipynb) [(Data)](kmeansdata.txt)
