@@ -37,16 +37,19 @@ Jun 12: Lecture TBD
 
 
 Introduction
+
 Pre-requisites
-▶
+
 We represent objects as vectors/matrices (arrays of numbers),
+
 so we have to do maths.
-▶
+
 Being familiar with calculus (integration, differentiation ...)
-▶
+
 Good understanding of probabilities
-▶
+
 Good understanding of linear algebra
-▶
+
 Today we will do a brief recap of these math subjects.
+
 # RADIO
